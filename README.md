@@ -1,4 +1,4 @@
-IFelse00 – Verificador de Maioridade
+IFelse – Verificador de Maioridade
 
 Este é um programa em **Java** usando **Swing** para criar uma interface gráfica simples que verifica se a pessoa é **maior ou menor de idade** com base na idade informada pelo usuário.
 
@@ -26,7 +26,7 @@ O código está no pacote `com.minhaempresa.ifelse00` e importa:
 
 ---
 
-## Classe `IFelse00`
+## Classe `IFelse`
 - **Atributos**
   - `txtIdade`: campo para digitar a idade.
   - `lblResultado`: exibe o resultado.
